@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26378309683",
+    "project_id": "projetoneki-auth",
+    "storage_bucket": "projetoneki-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26378309683:android:fe126e8282522832d15346",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26378309683-1oasn54no11kbj9rm70ae4v9565vkfm1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Es-Zrgj1IAsp_f7xxFH0jrIGIZj3cug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26378309683-1oasn54no11kbj9rm70ae4v9565vkfm1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
